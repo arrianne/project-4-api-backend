@@ -1,4 +1,4 @@
 class Category < ApplicationRecord
   belongs_to :user
-  has_many :appointments
+  has_and_belongs_to_many :appointments
 end
