@@ -50,3 +50,28 @@ Appointment.create!(
   comment: "Group session",
   user: user1
 )
+# 
+# Category.create!(
+# name: "blood glucose/fats"
+# )
+# Category.create!(
+# name: "blood pressure"
+# )
+# Category.create!(
+# name: "eye screening"
+# )
+# Category.create!(
+# name: "feet and legs"
+# )
+# Category.create!(
+# name: "kidney function"
+# )
+# Category.create!(
+# name: "dietary advice"
+# )
+# Category.create!(
+# name: "emotional/psychological support"
+# )
+# Category.create!(
+# name: "group education"
+# )
